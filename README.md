@@ -1,6 +1,8 @@
 # awsome-snowflake
 A curated list of awesome Snowflake resources which I found useful while learning about Snowflake. The resources are in the ordered I explored Snowflake.
 
+- Snowflake's [Awesome Snowflake](https://github.com/Snowflake-Labs/awesome-snowflake)
+
 ## Basics of Snowflake
 - [90 second intro to snowflake architecture](https://www.youtube.com/watch?v=Z2OYJFI2P8I)
 - [Snowflake Architecture](https://www.youtube.com/watch?v=QTEprlUFWNY)
